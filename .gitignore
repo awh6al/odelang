@@ -1,0 +1,14 @@
+# Xmake cache
+.xmake/
+target/
+
+# MacOS Cache
+.DS_Store
+
+# Clangd
+.cache/
+
+# ANTLR
+.antlr/
+
+
